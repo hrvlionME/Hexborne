@@ -1,0 +1,28 @@
+# Build outputs
+/out/
+/build/
+/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/usage.statistics.xml
+/.idea/dictionaries/
+/.idea/shelf/
+*.iws
+
+# Local runtime files
+*.log
+*.tmp
+*.temp
+hs_err_pid*
+replay_pid*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

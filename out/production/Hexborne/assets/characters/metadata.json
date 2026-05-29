@@ -1,0 +1,200 @@
+{
+  "group_id": "33daeaef-bf81-439e-adca-622d4c438429",
+  "states": [
+    {
+      "character": {
+        "id": "4aec2d5e-55b8-451a-a42b-b19aae6024d1",
+        "name": "im making hexborne game, it",
+        "prompt": "im making hexborne game, it is like dungeon crawler in waves can you generate me character mage, like witzard, no hat, u just create some random monsters with brown robe basic style",
+        "size": {
+          "width": 52,
+          "height": 52
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-05-23T11:44:29.791838+00:00"
+      },
+      "folder": "im_making_hexborne_game_it",
+      "frames": {
+        "rotations": {
+          "south": "im_making_hexborne_game_it/rotations/south.png",
+          "south-east": "im_making_hexborne_game_it/rotations/south-east.png",
+          "east": "im_making_hexborne_game_it/rotations/east.png",
+          "north-east": "im_making_hexborne_game_it/rotations/north-east.png",
+          "north": "im_making_hexborne_game_it/rotations/north.png",
+          "north-west": "im_making_hexborne_game_it/rotations/north-west.png",
+          "west": "im_making_hexborne_game_it/rotations/west.png",
+          "south-west": "im_making_hexborne_game_it/rotations/south-west.png"
+        },
+        "animations": {
+          "animation-35fae6c0": {
+            "south": [
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/south/frame_000.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/south/frame_001.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/south/frame_002.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/south/frame_003.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/south/frame_004.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/south/frame_005.png"
+            ],
+            "west": [
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/west/frame_000.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/west/frame_001.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/west/frame_002.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/west/frame_003.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/west/frame_004.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/west/frame_005.png"
+            ],
+            "east": [
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/east/frame_000.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/east/frame_001.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/east/frame_002.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/east/frame_003.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/east/frame_004.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/east/frame_005.png"
+            ],
+            "north": [
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/north/frame_000.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/north/frame_001.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/north/frame_002.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/north/frame_003.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/north/frame_004.png",
+              "im_making_hexborne_game_it/animations/animation-35fae6c0/north/frame_005.png"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "character": {
+        "id": "d7c7d036-3579-4099-bfb8-13882db9f24d",
+        "name": "taking damage",
+        "prompt": "im making hexborne game, it is like dungeon crawler in waves can you generate me character mage, like witzard, no hat, u just create some random monsters with brown robe basic style",
+        "size": {
+          "width": 52,
+          "height": 52
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-05-23T11:49:58.650152+00:00"
+      },
+      "folder": "taking_damage",
+      "frames": {
+        "rotations": {
+          "south": "taking_damage/rotations/south.png",
+          "south-east": "taking_damage/rotations/south-east.png",
+          "east": "taking_damage/rotations/east.png",
+          "north-east": "taking_damage/rotations/north-east.png",
+          "north": "taking_damage/rotations/north.png",
+          "north-west": "taking_damage/rotations/north-west.png",
+          "west": "taking_damage/rotations/west.png",
+          "south-west": "taking_damage/rotations/south-west.png"
+        },
+        "animations": {
+          "Taking_Punch-2dbd7b16": {
+            "west": [
+              "taking_damage/animations/Taking_Punch-2dbd7b16/west/frame_000.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/west/frame_001.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/west/frame_002.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/west/frame_003.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/west/frame_004.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/west/frame_005.png"
+            ],
+            "south": [
+              "taking_damage/animations/Taking_Punch-2dbd7b16/south/frame_000.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/south/frame_001.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/south/frame_002.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/south/frame_003.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/south/frame_004.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/south/frame_005.png"
+            ],
+            "east": [
+              "taking_damage/animations/Taking_Punch-2dbd7b16/east/frame_000.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/east/frame_001.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/east/frame_002.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/east/frame_003.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/east/frame_004.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/east/frame_005.png"
+            ],
+            "north": [
+              "taking_damage/animations/Taking_Punch-2dbd7b16/north/frame_000.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/north/frame_001.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/north/frame_002.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/north/frame_003.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/north/frame_004.png",
+              "taking_damage/animations/Taking_Punch-2dbd7b16/north/frame_005.png"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "character": {
+        "id": "bf7222e3-dfff-4903-b089-b9da2d9a53eb",
+        "name": "attack",
+        "prompt": "im making hexborne game, it is like dungeon crawler in waves can you generate me character mage, like witzard, no hat, u just create some random monsters with brown robe basic style",
+        "size": {
+          "width": 52,
+          "height": 52
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-05-23T11:54:42.907346+00:00"
+      },
+      "folder": "attack",
+      "frames": {
+        "rotations": {
+          "south": "attack/rotations/south.png",
+          "south-east": "attack/rotations/south-east.png",
+          "east": "attack/rotations/east.png",
+          "north-east": "attack/rotations/north-east.png",
+          "north": "attack/rotations/north.png",
+          "north-west": "attack/rotations/north-west.png",
+          "west": "attack/rotations/west.png",
+          "south-west": "attack/rotations/south-west.png"
+        },
+        "animations": {
+          "make_it_attack_animation_just_like_swing_a_staff_i-2f971098": {
+            "east": [
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/east/frame_000.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/east/frame_001.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/east/frame_002.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/east/frame_003.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/east/frame_004.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/east/frame_005.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/east/frame_006.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/east/frame_007.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/east/frame_008.png"
+            ],
+            "west": [
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/west/frame_000.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/west/frame_001.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/west/frame_002.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/west/frame_003.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/west/frame_004.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/west/frame_005.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/west/frame_006.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/west/frame_007.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/west/frame_008.png"
+            ],
+            "north": [
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/north/frame_000.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/north/frame_001.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/north/frame_002.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/north/frame_003.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/north/frame_004.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/north/frame_005.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/north/frame_006.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/north/frame_007.png",
+              "attack/animations/make_it_attack_animation_just_like_swing_a_staff_i-2f971098/north/frame_008.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.0",
+  "export_date": "2026-05-24T09:56:07.342454"
+}
